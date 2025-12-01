@@ -84,4 +84,3 @@ docker image prune           # Remove unused Docker images
 docker volume prune          # Remove unused Docker volumes
 docker network prune         # Remove unused Docker networks
 ```
-END
